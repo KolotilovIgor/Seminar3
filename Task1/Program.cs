@@ -24,6 +24,7 @@ for (int i = 0; i < array.Length; i++)
     {
         //isFind = true;
         find = "Да";
+        
     }
 }
 System.Console.WriteLine(find);
